@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Notion Duo Website',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://notionduo.vercel.app/',
   author: 'Notion Duo',
 
   // open graph metadata (optional)
